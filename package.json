@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sukrutiii/Food-Filter.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sukrutiii/Food-Filter/issues"
+  },
+  "homepage": "https://github.com/Sukrutiii/Food-Filter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
